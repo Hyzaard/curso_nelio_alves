@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/curso_nelio_alves.iml" filepath="$PROJECT_DIR$/curso_nelio_alves.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/exerciciosCondicionais/exerciciosCondicionais.iml" filepath="$PROJECT_DIR$/exerciciosCondicionais/exerciciosCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/exerciciosFor.iml" filepath="$PROJECT_DIR$/exerciciosFor/exerciciosFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosWhile/exerciciosWhile.iml" filepath="$PROJECT_DIR$/exerciciosWhile/exerciciosWhile.iml" />
     </modules>
   </component>
 </project>
